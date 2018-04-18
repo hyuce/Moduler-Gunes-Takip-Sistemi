@@ -100,19 +100,19 @@ while True:
     if(k1 < k2):
         a=1
         ileri_don(int(sure)/1000.0, int(adim))
-        time.sleep(1)
+        
     if(k1 > k2):
         a=1
         geri_don(int(sure)/1000.0, int(adim))
-        time.sleep(1)
+       
     if(k3 < k4):
         a=2
         ileri_don(int(sure)/1000.0, int(adim))
-        time.sleep(1)
+       
     if(k3 > k4):
         a=2
         geri_don(int(sure)/1000.0, int(adim))
-        time.sleep(1)    
+          
 
 
 
